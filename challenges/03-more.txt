@@ -1,0 +1,5 @@
+Want some more challenges?
+
+Have a look at the network chat program, can you add a robot that spams the chat with nonsense every few seconds?
+
+What about graphics if you've done that - how about making things fly around, each one in a thread that updates itself?
